@@ -14,4 +14,4 @@ Working on this project allowed me to gain a deeper understanding of how to use 
 
 Additional Resources:
 
-Python 3 documentation: https://docs.python.org/3/
+- Python 3 documentation: https://docs.python.org/3/
